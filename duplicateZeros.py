@@ -15,4 +15,3 @@ class Solution(object):
             x = len(self.arr)
             self.arr.insert(i,0)
             self.arr.pop(x)
-        return self.arr
