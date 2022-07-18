@@ -19,5 +19,6 @@
 - [704. Binary Search](./JavaScript/704-Binary%20Search)
 - [905. Sort Array By Parity](./JavaScript/905-Sort%20Array%20By%20Parity)
 - [941. Valid Mountain Array](./JavaScript/Valid%20Mountain%20Array)
+- [977. Squares of a Sorted Array](./JavaScript/977-Squares%20of%20a%20Sorted%20Array)
 - [1051. Height Checker](./JavaScript/1051-Height%20Checker)
 
