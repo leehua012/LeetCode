@@ -15,6 +15,7 @@
 - [278. First Bad Version](./JavaScript/278-First%20Bad%20Version)
 - [283. Move Zeroes](./JavaScript/283-Move%20Zeroes)
 - [414. Third Maximum Number](./JavaScript/414-Third%20Maximum%20Number)
+- [448. Find All Numbers Disappeared in an Array](./JavaScript/448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [704. Binary Search](./JavaScript/704-Binary%20Search)
 - [905. Sort Array By Parity](./JavaScript/905-Sort%20Array%20By%20Parity)
 - [941. Valid Mountain Array](./JavaScript/Valid%20Mountain%20Array)
