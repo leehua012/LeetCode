@@ -5,6 +5,7 @@
 var removeDuplicates = function(nums) {
     if(nums.length <= 1) return nums.length;
     /**
+     * in=place array operation
      * two-pointer approach:
      * i holds the unique positions
      * j bypass the duplicates and find the next unique value
