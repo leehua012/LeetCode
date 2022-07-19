@@ -21,6 +21,8 @@
 - [941. Valid Mountain Array](./JavaScript/Valid%20Mountain%20Array)
 - [977. Squares of a Sorted Array](./JavaScript/977-Squares%20of%20a%20Sorted%20Array)
 - [1051. Height Checker](./JavaScript/1051-Height%20Checker)
+- [2335. Minimum Amount of Time to Fill Cups](./JavaScript/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups)
+
 
 
 ## Medium
