@@ -28,3 +28,4 @@
 ## Medium
 ### JavaScript
 - [2. Add Two Numbers](./JavaScript/2-Add%20Two%20Numbers)
+- [189. Rotate Array](./JavaScript/189-Rotate%20Array)
