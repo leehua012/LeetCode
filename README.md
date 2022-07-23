@@ -14,6 +14,7 @@
 - [83. Remove Duplicates from Sorted List](./JavaScript/83-Remove%20Duplicates%20from%20Sorted%20List)
 - [278. First Bad Version](./JavaScript/278-First%20Bad%20Version)
 - [283. Move Zeroes](./JavaScript/283-Move%20Zeroes)
+- [344. Reverse String](./JavaScript/344-Reverse%20String)
 - [414. Third Maximum Number](./JavaScript/414-Third%20Maximum%20Number)
 - [448. Find All Numbers Disappeared in an Array](./JavaScript/448-Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 - [704. Binary Search](./JavaScript/704-Binary%20Search)
