@@ -24,6 +24,8 @@
 - [1051. Height Checker](./JavaScript/1051-Height%20Checker)
 - [2335. Minimum Amount of Time to Fill Cups](./JavaScript/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups)
 
+### Shell
+- [194. Transpose File](./shell/tranpose)
 
 
 ## Medium
