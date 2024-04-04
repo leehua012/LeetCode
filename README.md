@@ -24,12 +24,12 @@
 - [1051. Height Checker](./JavaScript/1051-Height%20Checker)
 - [2335. Minimum Amount of Time to Fill Cups](./JavaScript/2335-Minimum%20Amount%20of%20Time%20to%20Fill%20Cups)
 
-### Shell
-- [194. Transpose File](./shell/tranpose)
-
 
 ## Medium
 ### JavaScript
 - [2. Add Two Numbers](./JavaScript/2-Add%20Two%20Numbers)
 - [167. Two Sum II - Input Array Is Sorted](./JavaScript/167-Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
 - [189. Rotate Array](./JavaScript/189-Rotate%20Array)
+
+### Shell
+- [194. Transpose File](./shell/tranpose)
