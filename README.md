@@ -32,4 +32,5 @@
 - [189. Rotate Array](./JavaScript/189-Rotate%20Array)
 
 ### Shell
+- [192. Word Frequency](./shell/words-occurance)
 - [194. Transpose File](./shell/tranpose)
